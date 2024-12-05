@@ -110,3 +110,8 @@ footer img {
 footer p {
     font-size: 14px;
 }
+.comprar{
+    text-decoration: none;
+    background-color: #00796b;
+    padding: 10px;
+}
