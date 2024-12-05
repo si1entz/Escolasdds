@@ -30,7 +30,6 @@ header #lista01 {
     list-style: none;
     display: inline-flex;
     gap: 20px;
-    padding-top: 10px;
 }
 
 header #lista01 li {
@@ -109,9 +108,4 @@ footer img {
 
 footer p {
     font-size: 14px;
-}
-.botao{
-    text-decoration: none;
-    background-color: #00796b;
-    padding: 10px;
 }
